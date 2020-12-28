@@ -1,11 +1,11 @@
-<h1>Descrição 🚀</h1> 
-Projeto desenvolvido pela <strong><a href="https://github.com/Rocketseat">@Rocketseat</a></strong> na <strong><a href="https://nextlevelweek.com/inscricao/2">Next Level Week #3</a></strong> durante os dias 12 à 18 de Outubro do ano de 2020.
+<h1>Descrição </h1> 
+Projeto desenvolvido pela <strong><a href="https://github.com/Rocketseat">@Rocketseat</a></strong> na <strong><a href="https://nextlevelweek.com/inscricao/2">Next Level Week #3</a></strong>
 Happy é uma plataforma de orfanatos onde o usuário poderá encontrar orfanatos em diversas partes do brasil ou cadastrar algum orfanato se o mesmo possuir um. Lá o usuário poderá
 visualizar informações dos orfanatos que deseja visitar.
 
 <hr>
 
-<h1>Tecnologias utilizadas neste projeto 🖥️</h1>
+<h1>Tecnologias utilizadas neste projeto</h1>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
@@ -17,8 +17,8 @@ visualizar informações dos orfanatos que deseja visitar.
 
 <hr>
 
-<h1>Módulos necessários  👨‍💻 </h1>
-<strong>OBS:Necessário possuir o NodeJS na sua maquina.</strong>
+<h1>Módulos necessários </h1>
+<strong>OBS: É preciso ter o NodeJS instalado na máquina para prosseguir.</strong>
 <br>
 <br>
 <p>No terminal, digite:</p>
@@ -57,6 +57,6 @@ visualizar informações dos orfanatos que deseja visitar.
   <li>Digite no terminal</li>
   <ul>
     <li>npm start</li>
-    <strong>OBS: Com esse comando você ligará a aplicação.</strong>
+    <strong>OBS: Usando este comando, você irá iniciar o servidor</strong>
   </ul>
 </ol>  
